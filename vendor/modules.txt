@@ -1,0 +1,2 @@
+# github.com/arschles/assert v1.0.0
+github.com/arschles/assert
